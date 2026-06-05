@@ -1,0 +1,13 @@
+node_modules/
+.DS_Store
+*.log
+
+# AI-DLC upstream clone (reference only; not part of this project)
+.aidlc-source/
+
+# Terraform (for any generated/test scaffolds)
+.terraform/
+*.tfstate
+*.tfstate.*
+crash.log
+*.tfvars
