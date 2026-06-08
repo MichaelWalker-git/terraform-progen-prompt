@@ -5,6 +5,9 @@ node_modules/
 # AI-DLC upstream clone (reference only; not part of this project)
 .aidlc-source/
 
+# AI-DLC in-progress design output (kept local until inception completes)
+aidlc-docs/
+
 # Terraform (for any generated/test scaffolds)
 .terraform/
 *.tfstate
